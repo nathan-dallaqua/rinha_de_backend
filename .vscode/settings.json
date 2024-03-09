@@ -1,0 +1,36 @@
+{
+  "editor.fontSize": 11.8,
+  "editor.tabSize": 4,
+  "editor.lineHeight": 1.8,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "JetBrains Mono Light",
+  "workbench.colorTheme": "Sweet Dracula",
+  "editor.fastScrollSensitivity": 5,
+  "editor.mouseWheelScrollSensitivity": 3,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "terminal.integrated.lineHeight": 1.5,
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorStyleInactive": "underline",
+  "editor.letterSpacing": 0.1,
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 48,
+    "itemMargin": 8,
+    "itemSize": 33
+  },
+
+  "apc.electron": {
+    "frame": true
+  },
+
+  "apc.listRow": {
+    "height": 23
+  },
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none"
+  },
+  "gitblame.statusBarMessageNoCommit": "Not Committed"
+}
